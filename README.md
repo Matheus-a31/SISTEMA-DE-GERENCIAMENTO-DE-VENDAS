@@ -44,7 +44,7 @@ Além das operações básicas de CRUD, o sistema possui um módulo para consult
 
 Antes de executar o projeto, você precisará ter o seguinte instalado em sua máquina:
 
-  * Python 3.x
+  * Python 3
   * PostgreSQL
 
 ## Configuração e Execução
@@ -80,3 +80,4 @@ Siga os passos abaixo para configurar e executar o projeto:
 
 
     Isso abrirá o menu principal no seu terminal, onde você poderá navegar pelas diferentes opções do sistema.
+
